@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/",
         icon: XIcon,
       },
     ],
@@ -123,7 +123,7 @@ export const RESUME_DATA = {
       title: "Dorm Room Disruptors",
       techStack: ["Passion Project", "Podcast", "Young Founders", "Entre"],
       description:
-        "The stories of innovation that started between class and study break. We shine a light on the challenges, breakthroughs, and hustle that transformed a student's dreams into emerging businesses. From balancing exams with investor meetings to moments after all-nighters, get a firsthand look into the world of young entrepreneurship. If you're inspired by ambition and innovation, this is your listen.",
+        "The stories of innovation that started between class and study break. Shining a light on the challenges, breakthroughs, and hustle that transformed a student's dreams into emerging businesses. If you're inspired by ambition and innovation, this is your listen.",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
