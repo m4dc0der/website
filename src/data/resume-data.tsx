@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       link: "https://jetson.app",
       badges: ["Remote"],
       title: "Community Manager Intern",
-      logo: AmbitLogol,
+      logo: AmbitLogo,
       start: "2022",
       end: "2023",
       description:
