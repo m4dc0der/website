@@ -36,12 +36,12 @@ export const RESUME_DATA = {
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.dev/m4dc0der/",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/muratakyuz/",
         icon: LinkedInIcon,
       },
       {
@@ -53,32 +53,32 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "University of Washington",
+      degree: "Bachelor's Degree in Business Administration (BBA) & Entrepreneurship",
+      start: "2019",
+      end: "2023",
     },
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "Jetson",
+      link: "https://jetson.app",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
-      logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      title: "Digital Marketing Specialist",
+      logo: AmbitLogo,
+      start: "2023",
+      end: "Current",
       description:
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
+      company: "Jetson",
+      link: "https://jetson.app",
       badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      title: "Community Manager Intern",
+      logo: AmbitLogol,
+      start: "2022",
+      end: "2023",
       description:
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
     },
