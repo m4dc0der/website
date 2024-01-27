@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Seattle, Washington U.S",
   locationLink: "https://www.google.com/maps/place/Seattle",
   about:
-    "Digital Marketer and Entrepreneur focused on helping entrepreneurs and sharing their stories",
+    "Digital Marketer and Founder focused on helping entrepreneurs",
   summary:
     "I am Murat. Currently a marketer focused on growing brands online. With a BA from University of Washington. Also working on a couple of side projects like my podcast, and opening up a cafe :) ",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQFGMcX8WUgrww/profile-displayphoto-shrink_800_800/0/1686782629275?e=1711584000&v=beta&t=1fHoZlrLFWjgw3ocEfFq4Xs1KXayrJf3PtycpmZ-v0A",
@@ -92,16 +92,6 @@ export const RESUME_DATA = {
       end: "2022",
       description:
         "Started with OG Minecraft videos when I was 11 to educating on financial literacy when I got to college Canva, Photoshop, and DaVinci Resolve, Adobe Premier Pro 134,000,000+ views, 6 figure in revenue",
-    },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
     },
   ],
   skills: [
