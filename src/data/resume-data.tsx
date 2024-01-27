@@ -19,7 +19,7 @@ import {
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
-export const RESUME_DATA = {
+export const RESUME_DATA: ResumeData = {
   name: "Murat Akyuz",
   initials: "MA",
   location: "Seattle, Washington, United States",
@@ -48,10 +48,11 @@ export const RESUME_DATA = {
       company: "Jetson",
       link: "https://www.linkedin.com/company/jetsonapp/",
       title: "Digital Marketing Specialist",
-      logo: JetsonLogo, // Ensure this logo is added to your logos directory
+      logo: JetsonLogo, // Assuming JetsonLogo is correctly imported
       start: "Oct 2022",
       end: "Present",
       description: "Managing TikTok and other social media channels, developing digital marketing plans, and utilizing data analytics for campaign performance.",
+      // No 'badges' property if it's not applicable
     },
     // Add other work experiences here
   ],
@@ -64,4 +65,4 @@ export const RESUME_DATA = {
     // Add more skills as needed
   ],
   // Add projects, publications, awards, and other sections as needed
-} as const;
+};
