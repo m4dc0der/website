@@ -21,18 +21,18 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Murat Akyuz",
-  initials: "MA",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  initials: "BJ",
+  location: "Seattle, Washington U.S",
+  locationLink: "https://www.google.com/maps/place/Seattle",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Digital Marketer and Entrepreneur focused on helping entrepreneurs and sharing their stories",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "I am Murat. Currently a marketer focused on growing brands online. With a BA from University of Washington. Also working on a couple of side projects like my podcast, and opening up a cafe :) ",
+  avatarUrl: "https://media.licdn.com/dms/image/D4D03AQFGMcX8WUgrww/profile-displayphoto-shrink_800_800/0/1686782629275?e=1711584000&v=beta&t=1fHoZlrLFWjgw3ocEfFq4Xs1KXayrJf3PtycpmZ-v0A",
+  personalWebsiteUrl: "https://jetson.app",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "hi@muratakyuz.com",
+    tel: "",
     social: [
       {
         name: "GitHub",
