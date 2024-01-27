@@ -74,7 +74,7 @@ export const RESUME_DATA = {
     {
       company: "Royal",
       link: "https://royalkebabsandgyros.com",
-      badges: [Co-Founder],
+      badges: ["Co-Founder"],
       title: "Small Business Owner",
       logo: AmbitLogo,
       start: "2021",
