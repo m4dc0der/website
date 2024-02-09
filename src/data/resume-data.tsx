@@ -131,14 +131,14 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Don't Be A Cog",
+      title: "Stealth Campign",
       techStack: ["Marketing Campaign", "User Acquisition", "Viral"],
       description:
-        "A viral campign to acquire users for an entrepreneurial app. The first ever Roast My LinkedIn",
+        "A viral campign to acquire users for an entrepreneurial app",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
-        href: "https://dontbeacog.com/",
+        href: "https://test.com/",
       },
     },
   ],
